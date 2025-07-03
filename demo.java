@@ -4,10 +4,10 @@ public class demo {
         for (int i = 0; i < 6; i++) {
             System.out.println("Hello World");
             System.out.println("Hello Swapnil");
+            System.out.println();
 
         }
         // System.out.println("Hello World");
 
     }
-
 }
